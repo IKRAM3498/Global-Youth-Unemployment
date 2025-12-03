@@ -1,8 +1,7 @@
 # Compte rendu
 ## Analyse et Prédiction du Taux de Chômage des Jeunes (Global Youth Unemployment)
 
-**Date :** 26 Novembre 2025
-
+**Date :** 03 decembre 2025
 ---
 
 # À propos du jeu de données :
